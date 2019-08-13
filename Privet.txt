@@ -1,0 +1,7 @@
+Hi Sergei Zolotarev,
+
+I am starting work on creating new files for placing them in the online storage.
+While I do not understand the principle of operation of this repository.
+I'll try to gradually figure out what this can give me useful.
+Now I am creating a new file that should be saved in this repository.
+Let's see what happens.
